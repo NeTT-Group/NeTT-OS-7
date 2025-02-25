@@ -1,5 +1,5 @@
-# NeTT OS 7
+# NeTT OS
 
 ## About
 
-The official repository for NeTT OS 7, brought to you by the team at NeTT.
+The official repository for all versions of NeTT OS, brought to you by the team at NeTT.
