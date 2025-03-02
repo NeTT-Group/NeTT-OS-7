@@ -4,9 +4,9 @@
 
 The official repository for all versions of NeTT OS, brought to you by the team at NeTT.
 
+![NeT OS25 Pages](https://github.com/user-attachments/assets/ec541143-71a3-4a75-816b-353d7b25d925)
+
+
 ## Copyright
 
 © 2025 NeTT Systems. All rights reserved.
-
-
-![NeTOS](https://github.com/user-attachments/assets/21f982d9-e0b4-4d83-aa7f-d1ad88116329)
