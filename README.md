@@ -6,4 +6,4 @@ The official repository for all versions of NeTT OS, brought to you by the team 
 
 ## Copyright
 
-© 2025 NeTT Group. All rights reserved.
+© 2025 NeTT Systems. All rights reserved.
